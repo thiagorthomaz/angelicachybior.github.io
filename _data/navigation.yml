@@ -1,0 +1,16 @@
+# Site navigation links
+
+- title: Sobre
+  url: /about/
+
+#- title: Articles
+#  url: /articles/
+
+- title: Blog
+  url: /blog/
+
+- title: Theme Setup
+  url: /theme-setup/
+
+- title: Pesquisar
+  url: /search/
