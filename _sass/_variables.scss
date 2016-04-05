@@ -19,15 +19,15 @@ body {
 
 
 // COLORS =====================================================
-$body-color         : #72665a;
-$text-color         : #fff;
+$body-color         : #FBF2FF;
+$text-color         : #222;
 $base-color         : #343434;    
 $comp-color         : spin($base-color, 180); 
-$border-color       : #cadb2a;
+$border-color       : #ddd;
 $white              : #fff;
-$black              : #03b9ad;
+$black              : #000;
 $accent-color       : $black;
-$link-color         : #cadb2a;
+$link-color         : #222;
 
 $table-border-color           : $border-color;
 $table-border                 : 1px solid $table-border-color;
