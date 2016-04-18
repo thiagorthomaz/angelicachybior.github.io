@@ -5,7 +5,11 @@ locale: en_US
 #description: Describe your website here.
 logo: site-logo.png
 search: true
+<<<<<<< HEAD
 url: hhttp://angelicachybior.github.io
+=======
+url: http://angelicachybior.github.io
+>>>>>>> origin/master
 
 # Jekyll configuration
 
